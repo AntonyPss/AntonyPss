@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy AntonyPss / Hello! I'm AntonyPss
 
-<!--
-**AntonyPss/AntonyPss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Español - Spanish](#español) | [Ingles - English](#english)
 
-Here are some ideas to get you started:
+## Español
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Acerca de mí
+- 🌟 **Edad:** 15 años.
+- 🌐 **Idiomas:** Español (nativo), Inglés (aprendiendo).
+- 🎓 Estudiante apasionado por la programación y el desarrollo de software.
+- 🛠️ Actualmente estoy trabajando en:
+  - Proyectos para Minecraft Bedrock.
+  - Estudiar Python.
+- 🌍 **Ubicación:** Colombia.
+- 📚 Mis objetivos:
+  - Convertirme en ingeniero de software (si es posible).
+  - Crear herramientas y proyectos que hagan la vida más fácil.
+
+### 🔧 Tecnologías que uso
+- **Lenguajes:** JSON, HTML, CSS.
+- **Herramientas:** Visual Studio Code, Git, GitHub.
+
+## English
+
+### 🚀 About Me
+- 🌟 **Age:** 15 years old.  
+- 🌐 **Languages:** Spanish (native), English (learning).  
+- 🎓 A student passionate about programming and software development.  
+- 🛠️ Currently working on:  
+  - Projects for Minecraft Bedrock.  
+  - Studying Python.  
+- 🌍 **Location:** Colombia.  
+- 📚 **My Goals:**  
+  - Become a software engineer (if possible).  
+  - Create tools and projects that make life easier.  
+
+### 🔧 Technologies I Use
+- **Languages:** JSON, HTML, CSS.  
+- **Tools:** Visual Studio Code, Git, GitHub.
