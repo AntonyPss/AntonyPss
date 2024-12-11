@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy AntonyPss / Hello! I'm AntonyPss
 
-[Español - Spanish](#español) | [Ingles - English](#english)
+[Español - Spanish](#español) | [Inglés - English](#english)
 
 ## Español
 
