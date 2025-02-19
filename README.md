@@ -13,12 +13,12 @@
   - Estudiar Python.
 - 🌍 **Ubicación:** Colombia.
 - 📚 Mis objetivos:
-  - Convertirme en ingeniero de software (si es posible).
+  - Convertirme en desarrollador de software (si es posible).
   - Crear herramientas y proyectos que hagan la vida más fácil.
 
 ### 🔧 Tecnologías que uso
 - **Lenguajes:** JSON, HTML, CSS.
-- **Herramientas:** Visual Studio Code, Git, GitHub.
+- **Herramientas:** Visual Studio Code, Git, GitHub y otros.
 
 ## English
 
@@ -31,8 +31,8 @@
   - Studying Python.  
 - 🌍 **Location:** Colombia.  
 - 📚 **My Goals:**  
-  - Become a software engineer (if possible).  
-  - Create tools and projects that make life easier.  
+  - Become a software development (if possible).  
+  - Create tools and projects that make life easier and others.  
 
 ### 🔧 Technologies I Use
 - **Languages:** JSON, HTML, CSS.  
