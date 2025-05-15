@@ -17,7 +17,7 @@
   - Crear herramientas y proyectos que hagan la vida más fácil.
 
 ### 🔧 Tecnologías que uso
-- **Lenguajes:** JSON, HTML, CSS.
+- **Lenguajes:** JSON, HTML, CSS, JS.
 - **Herramientas:** Visual Studio Code, Git, GitHub y otros.
 
 ## English
@@ -35,5 +35,5 @@
   - Create tools and projects that make life easier and others.  
 
 ### 🔧 Technologies I Use
-- **Languages:** JSON, HTML, CSS.  
+- **Languages:** JSON, HTML, CSS, JS.  
 - **Tools:** Visual Studio Code, Git, GitHub.
